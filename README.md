@@ -10,5 +10,7 @@ This is how the simple snake game looks like.
 
 Sneak peek of graphics-designing engine:
 
+![screen shot 2018-10-25 at 2 07 44 pm](https://user-images.githubusercontent.com/41565823/47499134-7f0f4500-d85f-11e8-835b-fe5d9b2afb05.png)
+
 
 
