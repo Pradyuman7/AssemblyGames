@@ -1,6 +1,6 @@
 # Assembly Projects x86-64/32/16 (Intel)
 
-**These are the games I made in x86-64/32/16 Assembly (Intel) during my Bachelor's course, Computer Organisation at TU Delft, just for fun.**
+**These are the Projects I made in x86-64/32/16 Assembly (Intel) during my Bachelor's course, Computer Organisation at TU Delft, just for fun.**
 
 This includes 4 games (which I would share here); 1 GUI-ed game and 1 graphics-designing complex engine that took 80+ hours to complete in pure assembly which I would not share anywhere (currently), one because of being a project and another because of being put in participation of a competition.
 
