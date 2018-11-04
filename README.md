@@ -1,4 +1,4 @@
-# Assembly Games
+# Assembly Projects x86-64/32/16 (Intel)
 
 **These are the games I made in x86-64/32/16 Assembly (Intel) during my Bachelor's course, Computer Organisation at TU Delft, just for fun.**
 
