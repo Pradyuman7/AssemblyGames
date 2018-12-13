@@ -1,4 +1,4 @@
-// Simple snake game that is really simple except for the fact that file handling has been used in it
+;; Simple snake game that is really simple except for the fact that file handling has been used in it
 
 ;To build:
 ; 	nasm -f elf32 -F dwarf -g name.asm
