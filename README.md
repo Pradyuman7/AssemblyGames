@@ -9,7 +9,7 @@ This includes 4 games (which I would share here); 1 GUI-ed game and 1 graphics-d
 
 ![screenshot from 2018-10-25 13-43-25-2](https://user-images.githubusercontent.com/41565823/47498934-fa242b80-d85e-11e8-9064-1c1d3e55c5f6.png)
 
->This is how the advanced VT100 graphics' snakes game looks like:
+>This is how the advanced VT100 graphics' snake game looks like:
 
 ![screenshot1](https://user-images.githubusercontent.com/41565823/46129946-60099d00-c238-11e8-9bd5-74293b3c915c.jpg)
 
