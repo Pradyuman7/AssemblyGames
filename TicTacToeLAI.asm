@@ -1,4 +1,4 @@
-// Simple and hard to beat logic based AI, Human vs CPU, Tic Tac Toe 
+;; Simple and hard to beat logic based AI, Human vs CPU, Tic Tac Toe 
 
 %macro border1 0
 	times 80 db "="
