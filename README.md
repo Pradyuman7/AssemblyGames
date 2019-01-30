@@ -2,7 +2,7 @@
 
 **These are the Projects I made in x86-64/32/16 Assembly (Intel) during my Bachelor's course, Computer Organisation at TU Delft, just for fun.**
 
->I didn't use any kind of external library for any of the projects listed here, everything you can see in the projects is hard coded by me, even the algorithms like random generating numbers, time elapsed during the game and much more cool features including GUI in some projects like Snake (advanced) and graphics designing engine.
+>I didn't use any kind of external library for any of the projects listed here, everything you can see in the projects is hard coded by me, even the algorithms like (pseudo?)random generating numbers, time elapsed during the game and much more cool features including GUI in some projects like Snake (advanced) and graphics designing engine.
 
 This includes 4 games (which I would share here); 1 GUI-ed game and 1 graphics-designing complex engine (which I am not sharing anywhere currently, except for sneak peeks) (╯°□°)╯彡┻━┻ 
 
