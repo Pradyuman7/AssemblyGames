@@ -8,6 +8,12 @@ These are the Projects I made in x86-64/32/16 Assembly (Intel) during my Bachelo
 
 This includes 4 games (which I would share here); 1 GUI-ed game and 1 graphics-designing complex engine (which I am not sharing anywhere currently, except for sneak peeks) (╯°□°)╯彡┻━┻ 
 
+## Contents
+- SimpleSnake
+- Snake with Graphics (no library)
+- Graphics Designing Engine
+- Gamble vs AI
+
 
 ## This is how the simple snake game looks like:
 
