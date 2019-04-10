@@ -1,6 +1,8 @@
 # Assembly Projects x86-64/32/16 (Intel)
+[![AssemblyProjects](https://img.shields.io/badge/Pradyuman7-Assembly_Projects-maroon.svg?style=flat)](https://github.com/Pradyuman7/AssemblyGames)
 
-**These are the Projects I made in x86-64/32/16 Assembly (Intel) during my Bachelor's course, Computer Organisation at TU Delft, just for fun.**
+## What is this
+These are the Projects I made in x86-64/32/16 Assembly (Intel) during my Bachelor's course, Computer Organisation at TU Delft, just for fun.
 
 >I didn't use any kind of external library for any of the projects listed here, everything you can see in the projects is hard coded by me, even the algorithms like (pseudo?)random generating numbers, time elapsed during the game and much more cool features including GUI in some projects like Snake (advanced) and graphics designing engine.
 
