@@ -18,6 +18,11 @@ This includes 4 games (which I would share here); 1 GUI-ed game and 1 graphics-d
 
 Well, no real reason except for the fact that I wanted to make something that is purely hard coded by me and not use someone else's C program to do things with a bit less particularity
 
+## How I made graphics without using any library
+
+I used terminal that a simple Linux system has and integrated it with video terminal used long back to animate things on terminal. I used special characters that were used in video terminal to make design patterns, unfold / fold / edit them and move them as we need.
+
+
 ## This is how the simple snake game looks like:
 
 ![screenshot from 2018-10-25 13-43-25-2](https://user-images.githubusercontent.com/41565823/47498934-fa242b80-d85e-11e8-9064-1c1d3e55c5f6.png)
