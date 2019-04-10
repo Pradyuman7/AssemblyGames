@@ -22,6 +22,12 @@ Well, no real reason except for the fact that I wanted to make something that is
 
 I used terminal that a simple Linux system has and (integrated?) it with video terminal used long back to animate things on terminal. I used special characters that were used in video terminal to make design patterns, unfold / fold / edit them and move them as we need.
 
+## What pseudo random generating number algorithm?
+
+Well, I could have used the simple rand() but I chose not to. Why? I don't know. The algorithm I used is very simple and clever (I think). I use the base number as 7, multiply it with the current time in milliseconds, get the third from last image and find it's square root to get the pseudo random number.
+
+Cheesy and complicated? Yes. Fun? Hell yeah! :smile:
+
 
 ## This is how the simple snake game looks like:
 
