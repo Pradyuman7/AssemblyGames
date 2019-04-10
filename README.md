@@ -14,6 +14,9 @@ This includes 4 games (which I would share here); 1 GUI-ed game and 1 graphics-d
 - Graphics Designing Engine
 - Gamble vs AI
 
+## Why, no library?
+
+Well, no real reason except for the fact that I wanted to make something that is purely hard coded by me and not use someone else's C program to do things with a bit less particularity
 
 ## This is how the simple snake game looks like:
 
