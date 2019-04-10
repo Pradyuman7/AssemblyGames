@@ -20,7 +20,7 @@ Well, no real reason except for the fact that I wanted to make something that is
 
 ## How I made graphics without using any library
 
-I used terminal that a simple Linux system has and integrated it with video terminal used long back to animate things on terminal. I used special characters that were used in video terminal to make design patterns, unfold / fold / edit them and move them as we need.
+I used terminal that a simple Linux system has and (integrated?) it with video terminal used long back to animate things on terminal. I used special characters that were used in video terminal to make design patterns, unfold / fold / edit them and move them as we need.
 
 
 ## This is how the simple snake game looks like:
